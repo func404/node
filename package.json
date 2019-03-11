@@ -1,0 +1,26 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "我的第一个node测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/func404/node.git"
+  },
+  "keywords": [
+    "node",
+    "test"
+  ],
+  "author": "func404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/func404/node/issues"
+  },
+  "homepage": "https://github.com/func404/node#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
